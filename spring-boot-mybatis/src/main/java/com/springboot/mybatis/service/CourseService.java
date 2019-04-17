@@ -2,8 +2,6 @@ package com.springboot.mybatis.service;
 
 import com.springboot.mybatis.entity.Course;
 import com.springboot.mybatis.entity.CourseVO;
-import jdk.internal.dynalink.linker.LinkerServices;
-import org.springframework.stereotype.Component;
 
 import java.util.List;
 

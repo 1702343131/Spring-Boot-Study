@@ -1,9 +1,7 @@
 package com.springboot.mybatis.controller;
 
-import com.springboot.mybatis.entity.Course;
-import com.springboot.mybatis.entity.User;
 import com.springboot.mybatis.service.UserService;
-import com.springboot.mybatis.util.RandomUtil;
+import com.springboot.mybatis.entity.User;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;

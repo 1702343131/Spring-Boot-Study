@@ -13,9 +13,9 @@ import java.util.List;
  * Created by 张文旭 on 2019/3/18.
  */
 @Service
-public class CourseServiceImpl implements CourseService{
+public class CourseServiceImpl implements CourseService {
 @Resource
-private  CourseMapper courseMapper;
+private CourseMapper courseMapper;
     @Override
     public List<Course> seleceAll() {
         return courseMapper.selectAll();

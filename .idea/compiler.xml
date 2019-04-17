@@ -8,11 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="quickstart" />
         <module name="spring-boot-mybatis" />
+        <module name="spring-boot-webscoket" />
+        <module name="upload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="quickstart" target="1.8" />
       <module name="spring-boot-mybatis" target="1.8" />
+      <module name="spring-boot-webscoket" target="1.8" />
+      <module name="upload" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

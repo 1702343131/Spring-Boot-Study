@@ -2,7 +2,6 @@ package com.springboot.mybatis.quickstart.dao;
 
 import com.springboot.mybatis.quickstart.entity.Book;
 import org.springframework.stereotype.Component;
-import org.springframework.web.bind.annotation.CrossOrigin;
 
 import java.util.ArrayList;
 import java.util.List;

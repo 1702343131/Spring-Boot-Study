@@ -3,7 +3,6 @@ package com.springboot.mybatis.service;
 import com.springboot.mybatis.entity.Course;
 import com.springboot.mybatis.entity.CourseVO;
 import com.springboot.mybatis.util.RandomUtil;
-import net.bytebuddy.asm.Advice;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -11,8 +10,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import javax.annotation.Resource;
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by 张文旭 on 2019/3/18.

@@ -1,6 +1,5 @@
 package com.springboot.mybatis.mapper;
 
-import com.springboot.mybatis.entity.Course;
 import com.springboot.mybatis.entity.User;
 import org.apache.ibatis.annotations.*;
 
